@@ -19,4 +19,4 @@ Steps to execute:
 
     py.test -n4 --html="report2.html"
     
-5. Copy the generated html file, paste in on a browser.
+5. Copy the generated html file, paste it on a browser.
