@@ -12,4 +12,6 @@ Steps to execute:
 
     
 4. To run parallel testing or multiple testing at the same time run the command below:
-    py.test -n4
+    py.test -n4 --html="report2.html"
+    
+5. Copy the generated html file, paste in on a browser.
